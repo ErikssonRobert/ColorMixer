@@ -110,6 +110,15 @@
         case 2:
             self.difficulty = 0.001f;
             break;
+        case 3:
+            self.difficulty = 0.0001f;
+            break;
+        case 4:
+            self.difficulty = 0.00001f;
+            break;
+        case 5:
+            self.difficulty = 0.000001f;
+            break;
         default:
             self.difficulty = 0.1f;
             break;
