@@ -16,6 +16,7 @@
 @property (weak, nonatomic) IBOutlet UIView *leftColorDisplay;
 @property (weak, nonatomic) IBOutlet UIView *rightColorDisplay;
 @property (weak, nonatomic) IBOutlet UIView *randomColorDisplay;
+
 @property float redColor;
 @property float greenColor;
 @property float blueColor;
